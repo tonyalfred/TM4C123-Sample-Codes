@@ -30,6 +30,8 @@ main.obj: ../portmacro.h
 main.obj: ../mpu_wrappers.h
 main.obj: ../task.h
 main.obj: ../list.h
+main.obj: ../queue.h
+main.obj: ../semphr.h
 
 ../main.c:
 
@@ -90,4 +92,8 @@ C:/ti/ccs1040/ccs/tools/compiler/ti-cgt-arm_20.2.5.LTS/include/stddef.h:
 ../task.h:
 
 ../list.h:
+
+../queue.h:
+
+../semphr.h:
 
