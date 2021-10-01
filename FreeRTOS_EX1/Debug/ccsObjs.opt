@@ -1,0 +1,1 @@
+"./heap_2.obj" "./list.obj" "./main.obj" "./port.obj" "./portasm.obj" "./queue.obj" "./tasks.obj" "./timers.obj" "./tm4c123gh6pm_startup_ccs.obj" "C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" -llibc.a 
